@@ -1,0 +1,12 @@
+C:\Users\khadidja\source\repos\StockManagement\StockManagement\bin\Debug\StockManagement.exe.config
+C:\Users\khadidja\source\repos\StockManagement\StockManagement\bin\Debug\StockManagement.exe
+C:\Users\khadidja\source\repos\StockManagement\StockManagement\bin\Debug\StockManagement.pdb
+C:\Users\khadidja\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.csprojAssemblyReference.cache
+C:\Users\khadidja\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.Properties.Resources.resources
+C:\Users\khadidja\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.StockMain.resources
+C:\Users\khadidja\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.GenerateResource.cache
+C:\Users\khadidja\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\khadidja\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.exe
+C:\Users\khadidja\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.pdb
+C:\Users\khadidja\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.Login.resources
+C:\Users\khadidja\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.Products.resources
